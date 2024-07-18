@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'zdarova'
+puts Zdarova.hi(ARGV[0])
